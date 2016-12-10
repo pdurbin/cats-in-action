@@ -6,6 +6,12 @@ Play Now
 
 You can play Cats In Action at https://pdurbin.github.io/cats-in-action/
 
+
+Screenshot
+----------
+
+![screenshot](images/screenshot.png?raw=true)
+
 About
 -----
 
